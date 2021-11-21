@@ -1,0 +1,1 @@
+# devops-course-task6c-terraform
