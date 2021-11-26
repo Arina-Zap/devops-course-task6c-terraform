@@ -1,0 +1,5 @@
+# GP Project ID
+project_id = "devops-crash-course"
+
+# Path to the file containing GCP credentials.
+credentials_file = "credentials.json"
